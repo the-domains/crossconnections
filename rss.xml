@@ -4,11 +4,18 @@
         <description><![CDATA[CrossConnections]]></description>
         <link>https://thegrid.ai/crossconnections/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 19:38:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/crossconnections/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cross Connections- Peace]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Peace</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32292386-3fc5-409d-95c9-0dc06a8b15a1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/crossconnections/cross-connections-peace/index.html</link>
+            <guid isPermaLink="false">3b765000-0c7f-45cc-95e4-fe49d4a0ec31</guid>
+            <pubDate>Tue, 09 Feb 2016 19:35:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cross Connections- Patience]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Patience</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3b402a1-5d11-4b20-bab6-9d313a36adc8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cross Connections- Patience</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5d6f2db1ba4fa0339a6396f8887570c6017091c.jpg"></article>]]></description>
             <link>https://thegrid.ai/crossconnections/cross-connections-patience/index.html</link>
             <guid isPermaLink="false">ec4d770a-10cb-4f8d-aa4f-022f8b6b5ecd</guid>
             <pubDate>Tue, 09 Feb 2016 19:33:15 GMT</pubDate>
@@ -74,13 +81,6 @@ nine other virtues-- is meant to demonstrate that.</p><img src="https://s3-us-we
             <link>https://thegrid.ai/crossconnections/cross-connections-forgiveness/index.html</link>
             <guid isPermaLink="false">86744f9a-1075-4e02-8162-49c3e0ef9caf</guid>
             <pubDate>Tue, 09 Feb 2016 19:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Welcome]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Welcome</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e09207a7959e18f7abb62fcb3a17abce556221b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/crossconnections/cross-connections-welcome/index.html</link>
-            <guid isPermaLink="false">31d41440-a092-4470-b7f3-b41a9d5e3bbf</guid>
-            <pubDate>Tue, 09 Feb 2016 19:09:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
