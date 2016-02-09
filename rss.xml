@@ -4,11 +4,25 @@
         <description><![CDATA[CrossConnections]]></description>
         <link>https://thegrid.ai/crossconnections/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 19:29:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/crossconnections/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cross Connections- Goodness]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Goodness</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6575e93b7e31bb87a19a47db709bde67d7720c16.jpg"></article>]]></description>
+            <link>https://thegrid.ai/crossconnections/cross-connections-goodness/index.html</link>
+            <guid isPermaLink="false">30cef0da-9f68-4286-8009-f084fbb3fff9</guid>
+            <pubDate>Tue, 09 Feb 2016 19:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross Connections- Faithfulness]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Faithfulness</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/crossconnections/cross-connections-faithfulness/index.html</link>
+            <guid isPermaLink="false">69904f60-299c-4ecd-b4e3-f606cbbfdade</guid>
+            <pubDate>Tue, 09 Feb 2016 19:23:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cross Connections- Gentleness]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Gentleness</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84315efb-b9c8-45cb-9e3f-2464c2b45158.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cross Connections- Gentleness</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89643bed6cd2e9736df30e3dd251e45af6ad443.jpg"></article>]]></description>
             <link>https://thegrid.ai/crossconnections/cross-connections-gentleness/index.html</link>
             <guid isPermaLink="false">e6f8702a-f400-4174-9dc4-4b08b7be56c7</guid>
             <pubDate>Tue, 09 Feb 2016 19:20:32 GMT</pubDate>
@@ -67,20 +81,6 @@ nine other virtues-- is meant to demonstrate that.</p><img src="https://s3-us-we
             <link>https://thegrid.ai/crossconnections/cross-connections-humility/index.html</link>
             <guid isPermaLink="false">a4a5bcd7-242a-4934-8105-930119a68a13</guid>
             <pubDate>Tue, 09 Feb 2016 19:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25375cdc-b103-4d80-a134-98d5a9999f22.jpg">]]></description>
-            <link>https://thegrid.ai/crossconnections/ef9ada9a-e049-43cc-ba5b-e12cd1895cc9/index.html</link>
-            <guid isPermaLink="false">ef9ada9a-e049-43cc-ba5b-e12cd1895cc9</guid>
-            <pubDate>Tue, 09 Feb 2016 17:12:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Missions]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Missions</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5890e3c0eb8f51a7bbf70b27a9919d6bd8d346de.jpg"></article>]]></description>
-            <link>https://thegrid.ai/crossconnections/cross-connections-missions/index.html</link>
-            <guid isPermaLink="false">8bf6639d-afa6-496c-a1fd-cec3b10a9c7f</guid>
-            <pubDate>Tue, 09 Feb 2016 16:57:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
