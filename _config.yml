@@ -1,0 +1,28 @@
+name: CrossConnections
+favicon: null
+layout_spectrum: 0.6681688006501645
+typography_spectrum: 0.5018787349108607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#82a5c1'
+    - '#567381'
+    - '#fefefe'
+    - '#fae4b2'
+    - '#acb9bf'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.38645983929745853
+  rhythmicContrast: 0.893286983249709
+purpose: []
