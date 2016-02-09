@@ -4,11 +4,19 @@
         <description><![CDATA[CrossConnections]]></description>
         <link>https://thegrid.ai/crossconnections/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 19:51:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/crossconnections/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cross Connections- Introduction]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Introduction</h1><p>On the other hand,
+however, we know that there are things that Christians are supposed to do.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d359e01-ec21-4624-8afa-269665d944db.jpg"></article>]]></description>
+            <link>https://thegrid.ai/crossconnections/cross-connections-introduction/index.html</link>
+            <guid isPermaLink="false">a86b8a71-e981-4dc8-aeec-d7ad3cef14f1</guid>
+            <pubDate>Tue, 09 Feb 2016 19:50:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cross Connections]]></title>
-            <description><![CDATA[<article><h1>Cross Connections</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c25254df4f387f95d4ad57a63d616e6de432913a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cross Connections</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91361fe4c0a4048bae6e9318ae4568e2678a4901.jpg"></article>]]></description>
             <link>http://www.amazon.com/Cross-Connections-Brendan-Beale/dp/1320326706/ref=tmm_pap_title_1?_encoding=UTF8&amp;qid=1455047300&amp;sr=1-1</link>
             <guid isPermaLink="false">67ef1d35-4130-4683-8a5e-5aa2f4c3a8da</guid>
             <pubDate>Tue, 09 Feb 2016 19:49:55 GMT</pubDate>
@@ -68,13 +76,6 @@
             <link>https://thegrid.ai/crossconnections/cross-connections-faithfulness/index.html</link>
             <guid isPermaLink="false">69904f60-299c-4ecd-b4e3-f606cbbfdade</guid>
             <pubDate>Tue, 09 Feb 2016 19:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Gentleness]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Gentleness</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89643bed6cd2e9736df30e3dd251e45af6ad443.jpg"></article>]]></description>
-            <link>https://thegrid.ai/crossconnections/cross-connections-gentleness/index.html</link>
-            <guid isPermaLink="false">e6f8702a-f400-4174-9dc4-4b08b7be56c7</guid>
-            <pubDate>Tue, 09 Feb 2016 19:20:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
